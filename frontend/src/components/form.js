@@ -1,7 +1,7 @@
 const Form = () =>{
     return (
         <div>
-            Hello from Form
+            Hello from Form1
         </div>
     )
 }
